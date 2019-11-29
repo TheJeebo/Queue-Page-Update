@@ -1,0 +1,18 @@
+Report Data Start Time:	12:00 AM  11/21/2019Split/Skill	Agents Staffed	Agents Avail	Agents on ACD Calls	Agents in ACW	Agents in Other	Agents in Aux        Minus those on Dialer	Dialer	Calls Waiting	Oldest Call Waiting	ACD Calls	Avg ACD Time	Aban Calls	% Aban Calls	Avg Aban Time	Avg Speed Ans	Service Level
+SCE Turn Ons	18	2	2	0	12	2	0	0	0	5	232	0	0	0	0	100.0
+SCE Turn Off Eng	15	2	0	0	11	2	0	0	0	2	575.5	1	33	379	15.5	66.7
+SCE SPN TurnOff	3	1	0	0	1	1	0	0	0	0	0	0	0	0	0	.0
+SCE SPN Turn On	4	1	0	0	2	1	0	0	0	0	0	0	0	0	0	.0
+SCE SPN Intrnl t/on	2	1	0	0	1	0	0	0	0	0	0	0	0	0	0	.0
+SCE Spanish DNR	4	1	1	0	1	1	0	0	0	4	391.25	0	0	0	73.25	75.0
+SCE Outage Haz	4	1	0	0	3	0	0	0	0	0	0	0	0	0	0	.0
+SCE INTERNET	15	1	1	0	11	2	0	0	0	6	300	0	0	0	124	50.0
+SCE Internal T/Ons	15	2	0	0	11	2	0	0	0	0	0	0	0	0	0	.0
+SCE English DNR	16	2	6	0	5	2	0	1	0	33	243.96969697	1	3	44	32.0303030303	73.5
+SCE Cove Trouble	20	2	3	0	13	2	0	0	0	15	289.666666667	0	0	0	9.13333333333	93.3
+SCE Cove Spanish	3	1	0	0	1	1	0	0	0	0	0	0	0	0	0	.0
+SCE Cove English	16	2	1	0	11	2	0	0	0	13	288.307692308	0	0	0	72.3846153846	61.5
+SCE CARE SPN	3	1	0	0	1	1	0	0	0	0	0	0	0	0	0	.0
+SCE CARE ENG	15	2	0	0	11	2	0	0	0	0	0	0	0	0	0	.0
+SCE Afterhours	4	1	0	0	3	0	0	0	0	0	0	0	0	0	0	.0
+SCE 911 Afterhours	4	1	0	0	3	0	0	0	0	0	0	0	0	0	0	.0
